@@ -1,0 +1,15 @@
+OVERALL SUMMARY
+Metric,Value
+Total API Calls,7
+Successful Calls,6
+Failed Calls,1
+Apollo Calls,4
+Lusha Calls,3
+Phone Found Total,3
+Apollo Phone Found,1
+Lusha Phone Found,2
+Phone Not Found,4
+
+USER-WISE PERFORMANCE
+User,Total,Success,Failed,Lusha,Lusha Ph,Apollo,Apollo Ph,Total Ph
+Akhil,7,6,1,3,2,4,1,3
